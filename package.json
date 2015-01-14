@@ -1,0 +1,11 @@
+{
+  "name": "morse",
+  "version": "1.0.0",
+  "description": "Converts a string to morse and send it to the tessel.io relay",
+  "main": "index.js",
+  "scripts": {
+    "start": "tessel run index.js"
+  },
+  "author": "Martijn Swaagman",
+  "license": "MIT"
+}
