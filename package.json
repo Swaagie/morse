@@ -7,5 +7,9 @@
     "start": "tessel run index.js"
   },
   "author": "Martijn Swaagman",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "relay-mono": "0.1.x",
+    "tessel-morse": "git://github.com/Swaagie/tessel-morse.git"
+  }
 }
