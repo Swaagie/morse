@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "relay-mono": "0.1.x",
-    "tessel-morse": "git://github.com/Swaagie/tessel-morse.git"
+    "tessel-morse": "0.1.x"
   }
 }
